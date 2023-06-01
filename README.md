@@ -26,6 +26,10 @@ To get started with any of the bots developed under Project Discord, follow thes
 6. Build the TypeScript code: `npm run build`.
 7. Start the bot: `npm run start`.
 
+## Projects
+
+[View Projects](./PROJECTS.md)
+
 ## Contributing
 
 We encourage and appreciate contributions from the community to make the Project Discord bots even better. If you'd like to contribute, please follow the [contribution guidelines](./CONTRIBUTING.md) of the specific bot's repository.
