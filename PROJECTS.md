@@ -5,6 +5,7 @@ Welcome to the Project Discord Projects repository! This repository contains a c
 ## Repositories
 
 - [Discord Example Bot](https://github.com/SapphireDevs/discord)
+- [Discord Ticket Bot](https://github.com/SapphireDevs/discord-ticket-bot)
 - [Discord Captcha Verification Bot](https://github.com/SapphireDevs/discord-captcha-bot)
 
 Please feel free to explore the repositories and dive into each project to learn more about our work. If you have any questions or suggestions, don't hesitate to reach out to us.
